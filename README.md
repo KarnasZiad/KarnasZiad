@@ -21,34 +21,6 @@ I care about clean, maintainable code, sensible architecture and shipping things
 
 <br>
 
-## Experience
-
-<table>
-  <tr>
-    <td width="200" valign="top"><sub>FEB 2026 — JUL 2026</sub></td>
-    <td valign="top">
-      <b>Software Engineer</b> · Hepheos <sub>— final-year internship</sub><br>
-      Multi-tenant project-lifecycle platform: secure Java 21 / Quarkus microservices (OIDC, Keycloak, jCasbin), Next.js frontend, Kafka, CI/CD with Docker — and an AI assistant combining RAG (LangChain, pgvector, Elasticsearch) with agentic workflows.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><sub>JUL 2025 — SEP 2025</sub></td>
-    <td valign="top">
-      <b>Full-Stack Developer Intern</b> · Des Customs<br>
-      Mobile app comparing carrier plans, built end to end: FastAPI, PostgreSQL, Redis caching, fully containerized.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><sub>JUL 2024 — AUG 2024</sub></td>
-    <td valign="top">
-      <b>Web Developer Intern</b> · Algoting<br>
-      Full-stack e-commerce application with React / TypeScript and Node.js.
-    </td>
-  </tr>
-</table>
-
-<br>
-
 ## Tech stack
 
 <table>
