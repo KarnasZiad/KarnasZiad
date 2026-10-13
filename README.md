@@ -77,13 +77,4 @@ I care about clean, maintainable code, sensible architecture and shipping things
 
 <br>
 
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=KarnasZiad&theme=github-dark-blue&hide_border=true&background=0D1117&ring=34D399&fire=34D399&currStreakLabel=34D399">
-  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=KarnasZiad&hide_border=true&ring=059669&fire=059669&currStreakLabel=059669" width="100%">
-</picture>
-
-<br>
-
 <p align="center"><sub>Arabic (native) · French (fluent) · English (fluent)</sub></p>
