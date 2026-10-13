@@ -77,16 +77,6 @@ I care about clean, maintainable code, sensible architecture and shipping things
 
 <br>
 
-## Certifications
-
-<img src="https://img.shields.io/badge/Oracle-Java_SE_21-C74634?style=flat-square&logo=openjdk&logoColor=white" alt="Oracle Java SE 21">
-<img src="https://img.shields.io/badge/Red_Hat-System_Administration_I-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="Red Hat System Administration I">
-<img src="https://img.shields.io/badge/Red_Hat-Linux_Foundations-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="Red Hat Linux Foundations">
-<img src="https://img.shields.io/badge/MongoDB-Essentials-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Essentials">
-<img src="https://img.shields.io/badge/Cisco-Networking_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Networking Essentials">
-
-<br><br>
-
 ## Activity
 
 <picture>
